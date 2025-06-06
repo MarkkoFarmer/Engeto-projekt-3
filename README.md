@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Skript spustíš pomocí dvou argumentů:
 
 ```bash
-python main.py "URL_OKRESU" "NAZEV_SOUBORU.csv"
+python main.py "URL_OKRESU" NAZEV_SOUBORU.csv
 ```
 
 - `URL_OKRESU`: odkaz na stránku konkrétního okresu (např. Tachov)
