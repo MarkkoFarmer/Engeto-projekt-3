@@ -10,7 +10,7 @@ z webu volby.cz. Po zadání správné URL a názvu výstupního souboru vygener
 s výsledky pro všechny obce v zadaném celku.
 
 Spuštění:
-python main.py <URL> <název_výstupního_souboru.csv>
+python main.py "URL" název_výstupního_souboru.csv
 """
 
 import sys
